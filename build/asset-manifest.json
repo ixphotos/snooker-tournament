@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snooker-tournament/static/css/main.ddb7245f.css",
+    "main.js": "/snooker-tournament/static/js/main.a7c0534c.js",
+    "index.html": "/snooker-tournament/index.html",
+    "main.ddb7245f.css.map": "/snooker-tournament/static/css/main.ddb7245f.css.map",
+    "main.a7c0534c.js.map": "/snooker-tournament/static/js/main.a7c0534c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddb7245f.css",
+    "static/js/main.a7c0534c.js"
+  ]
+}
